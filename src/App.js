@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React Sridhar Mooghala
+            Learn React Sridhar Mooghala and changed to feature branch
           </a>
         </header>
       </div>
