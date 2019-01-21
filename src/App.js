@@ -18,6 +18,7 @@ class App extends Component {
             rel="noopener noreferrer"
           >
             Learn React Sridhar Mooghala and changed to feature branch
+            Swetha Panthati 
           </a>
         </header>
       </div>
